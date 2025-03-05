@@ -7,4 +7,4 @@ langchain_openai
 langgraph
 
 faiss-cpu
-streamlit
+streamlitgit 
