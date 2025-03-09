@@ -19,3 +19,5 @@ Steps :
 
 	5. Put your requirement .txt file in the outside of Virtual env 
               pip install -r requirements.txt
+
+    6.
